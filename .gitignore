@@ -1,0 +1,15 @@
+# Chaves de API
+.env
+
+# Dados gerados pela coleta (não redistribuídos)
+dados/*.csv
+
+# Saídas geradas pelos scripts
+resultados_sprint5/
+figuras_sprint5/
+resultados_modelos/
+figuras_modelos/
+
+__pycache__/
+.venv/
+.ipynb_checkpoints/
