@@ -1,0 +1,25 @@
+Atributo,N (=1),Mediana mult. (=1),Mediana mult. (=0),Diferença
+eh_franquia,1172,3.85,2.19,1.66
+gen_Music,62,3.4,2.73,0.67
+mpaa_G,77,3.37,2.72,0.65
+gen_Horror,452,3.19,2.67,0.52
+is_summer,851,3.1,2.61,0.49
+gen_Animation,328,3.11,2.7,0.41
+gen_Romance,442,3.08,2.68,0.4
+mpaa_PG,547,3.0,2.68,0.32
+gen_Comedy,1064,2.9,2.65,0.25
+is_holiday,661,2.86,2.72,0.14
+mpaa_PG-13,1076,2.79,2.68,0.11
+gen_Family,469,2.76,2.74,0.02
+gen_Mystery,302,2.61,2.75,-0.14
+gen_Adventure,837,2.61,2.79,-0.18
+gen_Science Fiction,514,2.49,2.78,-0.29
+gen_Drama,1179,2.54,2.84,-0.3
+gen_Thriller,931,2.52,2.86,-0.34
+mpaa_R,1407,2.53,2.87,-0.34
+gen_Fantasy,492,2.37,2.79,-0.42
+gen_War,92,2.24,2.75,-0.51
+gen_Action,1062,2.41,2.92,-0.51
+gen_Crime,542,2.32,2.84,-0.52
+gen_History,155,1.91,2.78,-0.87
+idioma_ingles,3007,2.71,3.76,-1.05

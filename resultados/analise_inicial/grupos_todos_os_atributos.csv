@@ -1,0 +1,8 @@
+Grupo,Nº atributos,R² só o grupo,R² sem o grupo,Perda ao remover
+Engajamento,3,0.058,0.291,0.112
+Produção,8,0.07,0.31,0.093
+Gênero,16,0.025,0.392,0.011
+Calendário,3,0.027,0.393,0.011
+Equipe (histórico),6,0.052,0.396,0.008
+Crítica,2,-0.08,0.401,0.002
+Nota do público,2,-0.051,0.403,0.001

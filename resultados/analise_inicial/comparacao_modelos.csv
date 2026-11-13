@@ -1,0 +1,5 @@
+Modelo,Pré-lançamento,Todos os atributos
+Ridge,0.233 ± 0.017,0.403 ± 0.026
+Huber,0.222 ± 0.023,0.395 ± 0.028
+KNN,0.141 ± 0.012,0.278 ± 0.010
+Random Forest,0.235 ± 0.012,0.406 ± 0.015

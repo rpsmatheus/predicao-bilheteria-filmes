@@ -1,0 +1,4 @@
+Cenário,Acurácia (CV),F1 macro (CV),Acurácia (temporal),F1 macro (temporal)
+Pré-lançamento,0.539,0.526,0.511,0.459
+Todos os atributos,0.606,0.595,0.641,0.586
+Linha de base (classe majoritária),0.353,0.174,0.228,0.124

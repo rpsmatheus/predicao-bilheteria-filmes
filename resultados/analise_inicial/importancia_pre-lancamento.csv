@@ -1,0 +1,35 @@
+Atributo,Permutação (média),Desvio,RF nativa (%)
+eh_franquia,0.1779,0.0181,8.64
+log_budget,0.1374,0.0205,16.51
+ano,0.1127,0.016,11.71
+estudio_hist_mult,0.0254,0.0091,8.75
+estudio_n_previos,0.0227,0.0074,6.94
+runtime,0.0168,0.0044,7.38
+elenco_hist_mult,0.0077,0.0035,6.32
+diretor_hist_mult,0.0075,0.0063,5.55
+elenco_n_previos,0.0054,0.0068,6.31
+gen_Science Fiction,0.0027,0.0016,0.5
+mpaa_PG-13,0.0026,0.0036,0.84
+gen_Action,0.0025,0.0069,1.86
+gen_Adventure,0.0024,0.0014,0.73
+gen_Thriller,0.002,0.0036,1.15
+gen_Animation,0.0016,0.0007,0.27
+gen_Romance,0.0015,0.0017,0.78
+is_holiday,0.0014,0.0012,0.61
+mpaa_R,0.0013,0.0016,1.05
+is_summer,0.0008,0.0009,0.54
+gen_Comedy,0.0006,0.0012,0.92
+gen_Fantasy,0.0005,0.001,0.48
+gen_History,0.0002,0.0002,0.18
+mpaa_G,0.0,0.0001,0.03
+idioma_ingles,0.0,0.0015,0.46
+gen_Family,0.0,0.0002,0.13
+gen_War,0.0,0.0,0.02
+gen_Music,0.0,0.0002,0.13
+mpaa_PG,-0.0002,0.0006,0.26
+gen_Drama,-0.0003,0.001,0.66
+diretor_n_previos,-0.0005,0.0014,1.71
+gen_Mystery,-0.0007,0.0008,0.38
+gen_Crime,-0.0012,0.0021,0.67
+gen_Horror,-0.0036,0.0034,0.73
+RUIDO_ALEATORIO,-0.0116,0.0045,6.83
